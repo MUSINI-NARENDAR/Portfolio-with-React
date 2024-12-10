@@ -1,0 +1,27 @@
+.skills {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .skills h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skill-item {
+    background-color: #333;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 1rem;
+  }
+  

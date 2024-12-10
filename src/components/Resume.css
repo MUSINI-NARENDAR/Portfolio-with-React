@@ -1,0 +1,50 @@
+.resume {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .resume h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .resume p {
+    margin-bottom: 1.5rem;
+    font-size: 1.2rem;
+  }
+  
+  .download-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .download-btn:hover {
+    background-color: #555;
+  }
+  
+  .resume-details {
+    margin-top: 2rem;
+    text-align: left;
+    display: inline-block;
+  }
+  
+  .resume-details h3 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+  
+  .resume-details ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .resume-details li {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+  }
+  
